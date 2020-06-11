@@ -38,4 +38,5 @@ https://github.com/ljwaaa/lagou2qiproject.git
 - 调用【会看家】的方法
 
 - 打印【狗狗的姓名，颜色，年龄，性别，毛发】。
-4、使用 yaml 来管理实例的属性
+
+使用 yaml 来管理实例的属性
