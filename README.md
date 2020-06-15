@@ -40,3 +40,8 @@ https://github.com/ljwaaa/lagou2qiproject.git
 - 打印【狗狗的姓名，颜色，年龄，性别，毛发】。
 
 使用 yaml 来管理实例的属性
+##  pytest实战（一）作业
+1、补全计算器（加减乘除）的测试用例
+2、使用数据驱动完成测试用例的自动生成
+3、conftest.py中创建fixture 完成setup和teardown
+4、在调用测试方法之前打印【开始计算】，在调用测试方法之后打印【计算结束】
