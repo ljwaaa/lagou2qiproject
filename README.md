@@ -57,3 +57,10 @@ https://github.com/ljwaaa/lagou2qiproject.git
 
 ### 课后作业3
 注册一个命令行参数env,env默认值是test,表示测试环境，另外还有两个值 （dev,st）不同的环境读取不同的数据。
+
+### 企业微信实战一
+1.分别使用浏览器复用和cookie登录企业微信。
+2.将所有的死等都封装成显式等待
+
+
+
