@@ -62,5 +62,11 @@ https://github.com/ljwaaa/lagou2qiproject.git
 1.分别使用浏览器复用和cookie登录企业微信。
 2.将所有的死等都封装成显式等待
 
+### 企业微信实战二
+
+* 完善你的PO，把显示等待等涉及到webdriver的方法封装到basepage中
+* 使用PO设计模式写如下的testcase：
+* 删除成员
+* 导入通讯录
 
 
